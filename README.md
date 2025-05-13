@@ -4,7 +4,7 @@
 
 ## Scenario
 
-As a data scientist at **SpaceY**, your mission is to analyze SpaceX launch data to:
+As a data scientist at SpaceY, the mission is to analyze SpaceX launch data to:
 
 - Determine the cost of each rocket launch.
 - Predict whether the first-stage booster will be reused.
