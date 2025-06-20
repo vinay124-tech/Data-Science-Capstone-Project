@@ -1,4 +1,4 @@
-# SpaceY Launch Pricing & Booster Reuse Prediction
+# SpaceX Launch Pricing & Booster Reuse Prediction
 
 **Capstone Project | IBM Data Science Professional Certificate**
 
