@@ -4,7 +4,7 @@
 
 ## Scenario
 
-As a data scientist at SpaceY, the mission is to analyze SpaceX launch data to:
+As a data scientist at SpaceX, the mission is to analyze SpaceX launch data to:
 
 - Determine the cost of each rocket launch.
 - Predict whether the first-stage booster will be reused.
@@ -38,7 +38,7 @@ By leveraging public data, exploratory analysis, clustering, and predictive mode
 ├── dashboard/
 │   └── app.py                         # Dash application
 ├── presentation/
-│   └── SpaceY_Capstone.pptx           # Project summary slides
+│   └── SpaceX_Capstone.pptx           # Project summary slides
 └── README.md                          # Project documentation (this file)
 ```
 
@@ -46,8 +46,8 @@ By leveraging public data, exploratory analysis, clustering, and predictive mode
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/SpaceY-Launch-Prediction.git
-   cd SpaceY-Launch-Prediction
+   git clone https://github.com/<username>/SpaceX-Launch-Prediction.git
+   cd SpaceX-Launch-Prediction
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
